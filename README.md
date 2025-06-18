@@ -78,7 +78,7 @@ Untuk menjalankan prototipe:
 streamlit run app.py
 ```
 
-**Atau** anda dapat mengaksesnya menggunakan link berikut. [Link Streamlit Cloud](http://localhost:3000)
+**Atau** anda dapat mengaksesnya menggunakan link berikut. [Link Streamlit Cloud](https://submission-penerapan-ds-pendidikan-5wxr4sjlwmivx7j5w7yq6o.streamlit.app/)
 
 Model ini dilatih menggunakan data siswa dan mencapai akurasi tinggi dalam mengklasifikasikan status akhir siswa. Fitur paling berpengaruh ditunjukkan pada grafik berikut:
 
